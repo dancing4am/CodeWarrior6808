@@ -1,0 +1,1 @@
+"$(ProjDirPath)/Project_Settings/Linker_Files/Project.prm" -M -ViewHidden -WmsgFob"%f%e:%l:%k:%d %m\n"  -Add("$(ProjDirPath)/MC9S08GB60/Sources/main_asm.obj")
